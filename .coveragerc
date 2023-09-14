@@ -1,0 +1,7 @@
+# This file is used as .coveragerc for pytest-cov
+[report]
+show_missing = True
+precision = 2
+
+[run]
+source=src
